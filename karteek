@@ -1,3 +1,7 @@
-rtheek
-34
-belgacom
+!#/bin/bash
+if
+x=2
+exit 0
+else
+exit 1
+fi
