@@ -1,7 +1,6 @@
 ---
-- hosts: localhost
+- hosts: apache
+  sudo: yes
   tasks:
-   - name: Installing Apache
-     package:
-      name: apache2
-
+    - name: install apache2
+      apt: name=apache2 update_cache=yes state=latest
