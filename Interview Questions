@@ -26,3 +26,7 @@ How to change the instance type?
       Change the instance type -> Instance settings -> change instance type -> m2.medium
       Start the EC2 instance, Public IP will get changed
       
+What is ELB?
+What is Autoscaing? how it works?
+Which plugins are used to push the code from jenkins to ansible?
+
