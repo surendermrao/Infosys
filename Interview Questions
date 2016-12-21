@@ -29,4 +29,12 @@ How to change the instance type?
 What is ELB?
 What is Autoscaing? how it works?
 Which plugins are used to push the code from jenkins to ansible?
+How will you list all he NFS mounts?
+How will you mount NFS dir, NFS share in read only mode?
+what is the difference bet Git Pull and Git Push?
+How will you create Git Repository and base repository in CLI mode?
+what version you are using for Jenkins?
+which SCM you are using and what is the tool you are using?
+what is the use of Profiles in Mavens?
+which type of playbooks you write?
 
