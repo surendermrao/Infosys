@@ -1,2 +1,52 @@
 Docker PS
 Docker version
+
+
+
+touch file.txt
+git add .
+git commit -m ""
+git push
+git clone "gile url"
+Fork - we can access the repository  and do changes and ask for pull request.
+
+
+docker ps
+docker version
+docker run
+docker file
+
+
+
+jenkins -- continious integration tool
+we can test the code here, we can integrate the code from git..we need to configure te git repository in jenkins
+we need to install jenkins plugins for working with AWS EC2 ect....
+build now
+console output
+
+
+Ansible
+Install Ansible 
+Install Boto
+Install Python-pip
+Configure dynamic inventory
+Playbooks
+python language
+yml format we write playbooks.ymkl
+
+
+
+
+
+AWS...we launch EC2 instance....high availability webhosting
+EC2
+ELB
+Autoscaling
+Route 53
+IAM 
+RDS
+s3
+glasier
+storage gateway
+
+storage lifecycle
