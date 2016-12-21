@@ -19,3 +19,10 @@ Jenkin Pipeline process?
 How to integrate or deliver the code from jenkins to ansible workstation?
 How to integrate or cmmunicate from Jenkins to Ansible EC2?
 What are the things to use for storing in AWS? which resource is use for storing?
+What is CI?
+Which plugins is used for to check in threshold value in jenkins?
+How to change the instance type?
+ Ans: Stop the Instance -> actions -> instance state -> stop
+      Change the instance type -> Instance settings -> change instance type -> m2.medium
+      Start the EC2 instance, Public IP will get changed
+      
