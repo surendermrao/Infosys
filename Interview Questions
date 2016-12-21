@@ -37,4 +37,26 @@ what version you are using for Jenkins?
 which SCM you are using and what is the tool you are using?
 what is the use of Profiles in Mavens?
 which type of playbooks you write?
+How it will test the code in Jenkins server? By using selenium plugin.
+what kind of test it will perfom in Jenkin dashboard side?
+Did you write any playbook? what is the purpose of that playbook?
+How to access the Jenkins server?
+What is Jenkin distribution?
+Jenkin master and slave? how many slaves roles are attached to Jenkin master?
+what is devops?
+Diff bet ELB and Autoscaling?
+How to change the instance type?
+What is RDS? can you explain RDS services?
+Once we have deployed the code in production environment, by using Ansible how to check the sttus is successly deployed or not in target servers?
+How to configure Ansible-playbooks? what activity you are doing by using ansible playbook?
+which plugin is used for to push the code from Jenkin to Ansible?
+Which monitoring tool you are using? Cloud Watch
+VMware ESXI which vesion you are using
+what is meant by DR's in VMware side?
+what is the difference bet fault tolerence and DRs?
+Do you write any playbook? what kind of purpose you will wirte playbook?
+what is meant by VPC?
+How will you configure passwrod key login?
+what is the use of stiky bit?
+How will you set environment variables?
 
