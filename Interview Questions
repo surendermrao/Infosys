@@ -11,6 +11,11 @@ How to get back data from S3 for reference?
 What is the difference bet Puppet and Ansible?
 Have you implemented Ansible opensource or Ansible tower?
 HOw to integrate Ansible in Jenkins and what plugins you are using?
-What are the playbooks or wookbooks written in Ansible?
+What are the playbooks or cookbooks written in Ansible?
 How to add or give permission to users for git hub repository?
 How to change the branch name in github?
+How to update the particular file in with-in the branch?
+Jenkin Pipeline process?
+How to integrate or deliver the code from jenkins to ansible workstation?
+How to integrate or cmmunicate from Jenkins to Ansible EC2?
+What are the things to use for storing in AWS? which resource is use for storing?
