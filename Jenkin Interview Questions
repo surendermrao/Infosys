@@ -1,0 +1,91 @@
+
+
+Q1.  What is Jenkins ?
+
+ 
+
+Ans. It is a continuous integration
+tool written in Java.
+
+ 
+
+Q2.  What is the difference
+between Maven, Ant and Jenkins ?
+
+ 
+
+Ans. Maven and Ant are Build
+Technologies whereas Jenkins is a continuous integration tool.
+
+ 
+
+Q3.  Which SCM tools Jenkins
+supports ?
+
+ 
+
+Ans.  AccuRev, CVS, Subversion,
+Git, Mercurial, Perforce, Clearcase and RTC
+
+ 
+
+Q4.  What are the various ways in
+which build can be scheduled in Jenkins ?
+
+ 
+
+Ans. Builds can be triggered by
+source code management  commits.
+
+Can be triggered after completion of
+other builds.
+
+Can be scheduled to run at specified
+time ( crons )
+
+Manual Build Requests
+
+ 
+
+Q5.  What is the relation between
+hudson and Jenkins ?
+
+ 
+
+Ans. Hudson was the earlier name and
+version of current Jenkins. After some issue , the project name was changed
+from Hudson to Jenkins.
+
+ 
+
+Q6.  What you do to make sure that
+your project build doesn't break in Jenkins ?
+
+ 
+
+Ans. I make sure that I perform
+successful clean install on my local machine with all unit tests.
+
+Then I make sure that I check in all
+code changes.
+
+Then I do a Synchronize with repository
+to make sure that all required config and POM changes and any difference is
+checked into the repository. 
+
+ 
+
+Q7.  What you do when you see a
+broken build for your project in Jenkins ?
+
+ 
+
+Ans. I will open the console output for
+the build and will try to see if any file changes were missed.
+
+If not able to find the issue that way,
+Will clean and update my local workspace to replicate the problem on my local
+and will try to solve it.
+
+ 
+
