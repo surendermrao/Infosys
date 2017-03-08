@@ -1,0 +1,10 @@
+sudo ssh -i mykey.pem ubuntu@<ec2_ip_public_dns>
+
+
+chmod 400 <key.pem>
+
+ssh -i <key.pem> ec2-user@ec2_public_dns (for debian)
+
+
+
+
