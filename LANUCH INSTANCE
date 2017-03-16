@@ -51,3 +51,7 @@
       ec2:
         state: 'absent'
         instance_ids: '{{ ec2.instance_ids }}'
+
+
+
+
