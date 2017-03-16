@@ -18,6 +18,8 @@ docker file
 
 
 
+
+
 jenkins -- continious integration tool
 we can test the code here, we can integrate the code from git..we need to configure te git repository in jenkins
 we need to install jenkins plugins for working with AWS EC2 ect....
